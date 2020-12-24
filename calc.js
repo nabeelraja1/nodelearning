@@ -2,4 +2,4 @@ const sub = (a, b) => {
     return a - b;
 }
 
-console.log('sub', sub(5, 6))
+console.log('sub-2', sub(5, 6))
